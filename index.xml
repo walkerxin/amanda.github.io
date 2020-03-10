@@ -6,10 +6,25 @@
     <description>Recent content on Amanda&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Tue, 10 Mar 2020 21:02:01 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2020 22:20:50 +0800</lastBuildDate>
     
 	<atom:link href="amanda.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>如何使用 Hugo 搭建个人博客</title>
+      <link>amanda.github.io/posts/%E4%BD%BF%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 10 Mar 2020 22:20:50 +0800</pubDate>
+      
+      <guid>amanda.github.io/posts/%E4%BD%BF%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>弃坑 Hexo，投入 Hugo 的怀抱
+ Hugo 其实是一个命令行工具，帮助我们生成静态网页。
+ 一、安装   masOS
+ 使用命令 brew install hugo    Windows
+ 下载 realse zip 包 解压，将 hugo.exe 文件放入某盘:\software\Hugo\bin 配置环境变量 PATH，添加 hugo.exe 存放路径    验证安装：
+  $ hugo versionHugo Static Site Generator v0.67.0-7F1DA3EF windows/amd64 BuildDate: 2020-03-09T20:35:55Z二、使用 参考官方文档
+Ⅰ 创建一个全新的 Hugo 网站，存放于指定的文件夹中 $ hugo new site amanda.github.io-creatorⅡ 添加一个主题  下载主题，这里使用官方文档主题 Ananke theme  $ cd amanda.</description>
+    </item>
     
     <item>
       <title>第一篇博客</title>
