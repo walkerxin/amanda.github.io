@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>独立博客 on Java World - HChXin </title>
+    <link>http://localhost:1313/tags/%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/</link>
+    <description>Recent content in 独立博客 on Java World - HChXin </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Mar 2020 22:20:50 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>如何使用 Hugo 搭建个人博客</title>
+      <link>http://localhost:1313/post/%E4%BD%BF%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Tue, 10 Mar 2020 22:20:50 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E4%BD%BF%E7%94%A8-hugo-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>弃坑 Hexo，投入 Hugo 的怀抱 Hugo 其实是一个命令行工具，帮助我们生成静态网页。 一、安装 masOS 使用命令 brew install hugo Windows 下载 realse zip 包 解压，将 hugo.exe 文件放入某盘:\sof</description>
+    </item>
+    
+  </channel>
+</rss>
